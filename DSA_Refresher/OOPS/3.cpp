@@ -18,7 +18,7 @@ class Hero{
     }
     //parametrised Constructor
     Hero(int health){
-        this->health = health;//here this refers to current object that means Samar
+        this->health = health;//here this refers to current object that means Sam2
         //so we are putting the health value in Sam2's health
         //you can check by the address of this and Sam2 ,it will be same
         cout<<"this->"<<this<<endl;

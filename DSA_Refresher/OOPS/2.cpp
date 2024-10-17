@@ -24,7 +24,7 @@ class Hero{
 int main(){
 
 
-    //object creation using statis allocation
+    //object creation using static allocation
 Hero a;
 a.setHealth(80);
 cout<<"health statically is "<<a.getHealth();
